@@ -35,7 +35,7 @@ pip install opencv-python numpy cvzone
     First, you need to define the parking slots using the slotdefine.py script. This script allows you to manually add or remove parking slots by clicking on the parking lot image.
 
     ```bash
-    python slotdefine.py
+    python slotDefine.py
     ```
     - Left Mouse Button: Add a new parking slot at the clicked position.
     - Right Mouse Button: Remove a parking slot if clicked inside it.
